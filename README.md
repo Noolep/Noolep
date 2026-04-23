@@ -1,4 +1,4 @@
-# <p align="center">Hi there, I'm Haidar! 🎮</p>
+# <p align="center">Hi there, I'm Ricard (Neko)! 🎮</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Junior+Web+Developer;Godot+Game+Developer;Student+at+XI+RPL+1;Creating+Digital+Experiences" alt="Typing SVG" />
