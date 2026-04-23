@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Haidar-009&color=blue&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Noolep&color=blue&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -35,11 +35,11 @@ I'm a student from **XI RPL 1** who loves building websites and **indie games wi
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haidar-009&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Noolep&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haidar-009&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noolep&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
