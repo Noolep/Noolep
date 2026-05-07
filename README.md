@@ -11,24 +11,17 @@
 ---
 
 ### 🕹️ Gamedev & Web Dev
-I'm a student from **XI RPL 1** who loves building websites and **indie games with Godot Engine**. Combining logic and creativity to make something fun!
+I'm a student from **XI RPL 2** who loves building websites and **indie games with Godot Engine**. Combining logic and creativity to make something fun!
 
 * 🎮 **Currently building:** Small games with GDScript.
-* 🌐 **Latest Web Project:** [Portofolio XI RPL 1](https://github.com/Haidar-009/portofolio-rpl1)
+* 🌐 **Latest Web Project:** [Portofolio XI RPL 1](https://noolep.github.io/Porto-KelasRPL2/)
 * 🌱 **Learning:** Shader programming & Advanced JS.
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=godot,html,css,js,tailwind,vite,vscode,git,github" />
-</p>
-
----
-
-### 🐍 My Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Haidar-009/Haidar-009/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,tailwind,vite,vscode,git,github" />
 </p>
 
 ---
@@ -46,13 +39,13 @@ I'm a student from **XI RPL 1** who loves building websites and **indie games wi
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://instagram.com/haidarrsa" target="_blank">
+  <a href="https://www.instagram.com/rcrd06._" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/cpt0h" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="mailto:haidarsaifulah@gmail.com">
+  <a href="mailto:renaissancericharda@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
